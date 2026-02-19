@@ -25,7 +25,6 @@ a{
 button{
     cursor: pointer;
     border: none;
-    background: brown;
     width: 60px;
     height: 20px;
 }
@@ -166,5 +165,6 @@ footer{
         flex-direction: column;
         justify-content: center;
     }
+
 
 }
