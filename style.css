@@ -27,6 +27,7 @@ button{
     border: none;
     width: 60px;
     height: 20px;
+    background: blueviolet;
 }
 
 img{
@@ -168,3 +169,4 @@ footer{
 
 
 }
+
