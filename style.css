@@ -22,6 +22,10 @@ a{
     text-decoration: none;
 }
 
+marquee{
+    background:cyan;
+}
+
 button{
     cursor: pointer;
     border: none;
@@ -170,5 +174,6 @@ footer{
 
 
 }
+
 
 
